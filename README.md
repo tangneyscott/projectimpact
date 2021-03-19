@@ -18,11 +18,11 @@ The Impact Project enables NFT creators to mint an NFT with an environmental / s
 
 ### Use Cases 
 
-@RAC releases a NFT with 50% of the primary and secondary market sales going towards donating .
-
 Zora buys carbon-offset credits (https://decrypt.co/60271/zora-nft-carbon-offset-ethereum) and can prove their donation via "Impact" tokens. 
 
 Collabs... say @trevorjonesart X https://water.org/ (promotes clean drinking water), the NFT is minted and up for sale. The buyers of the NFT receive a non-transferable "Impact" token. Wallets receive a report on the impact they had with the purchase of the artwork. 
+
+User A donates 1 ETH to water.org and receives "Impact" tokens. User A can join a community to meet other users who value providing clean drinking water to less-fortunate individuals. 
 
 ### How It's Made
 
