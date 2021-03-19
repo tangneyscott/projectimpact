@@ -37,6 +37,8 @@ Creators can define their own rules with protocols such as Zora. Contracts can n
   - Incentivizing or nudging the donation to projects supporting the United Nations Sustainable Development Goals
   - Increasing the experience of donating to a charity by leveraging token-access communities 
 
-#### Thoughts
+### Thoughts
 
-Social businesses (not profit-maximizing & and not reliant on donors/grants) are increasingly being spun up. How can we bring the most important global issues to the Ethereum ecosystem (future of the Creator DAO and leveraged in tokenized communities).
+Social businesses (not profit-maximizing & and not reliant on donors/grants) are increasingly being spun up. 
+
+How can we bring the most important global issues to the Ethereum ecosystem (future of the Creator DAO and leveraged in tokenized communities)?
