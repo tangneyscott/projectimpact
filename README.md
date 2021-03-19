@@ -30,6 +30,7 @@ Creators can define their own rules with protocols such as Zora. Contracts can n
 
 *Avoid*
   - Charities that act as a black box (you don't know where your $1 donation gets allocated)
+  - Platform specific solutions (make it platformless)
 
 *Move Towards* 
   - Appealing to Gen Z and Millennial values
