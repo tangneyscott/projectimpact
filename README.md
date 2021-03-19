@@ -32,5 +32,5 @@ Creators can define their own rules with protocols such as Zora. Contracts can n
 
 *Move Towards* 
   - Appealing to Gen Z and Millenial values
-  - Incentivizing or nudging the donation to projects 
+  - Incentivizing or nudging the donation to projects supporting the United Nations SDGs
  
