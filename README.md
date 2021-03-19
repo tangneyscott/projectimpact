@@ -34,7 +34,7 @@ Creators can define their own rules with protocols such as Zora. Contracts can n
 
 *Move Towards* 
   - Appealing to Gen Z and Millennial values
-  - Incentivizing or nudging the donation to projects supporting the United Nations SDG
+  - Incentivizing or nudging the donation to projects supporting the United Nations Sustainable Development Goals
   - Increasing the experience of donating to a charity by leveraging token-access communities 
 
 #### Thoughts
