@@ -2,7 +2,7 @@
 
 ### Short Description
 
-The Impact Project enables access to support the United Nations 17 Sustainable Development Goals (SDGs). 
+The Impact Project enables access to support the United Nations 17 Sustainable Development Goals (SDGs). https://sdgs.un.org/goals
 
 ### Long  Description
 
