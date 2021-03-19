@@ -1,5 +1,9 @@
 # The Impact Project 
 
+### Why This is Important
+
+The world is an unfair place, where an individual's life can be largely determined on where and when they are born. We know what problems to tackle but the infrastructure to support them isn't incorporated in the Ethereum ecosystem as of right now. Let's build the future of the internet and tackle global problems along the way. 
+
 ### Short Description
 
 The Impact Project enables access to support the United Nations 17 Sustainable Development Goals (SDGs). https://sdgs.un.org/goals
@@ -12,10 +16,9 @@ An individual's interests and values are represented by the assets within their 
 
 The Impact Project enables NFT creators to mint an NFT with an environmental / social impact (e.g. RAC releases art where 10% of sales goes toward planting trees).
 
-
 ### Use Cases 
 
-@RAC releases a NFT with 50% of the primary and secondary market sales going towards removing plastic from the ocean.
+@RAC releases a NFT with 50% of the primary and secondary market sales going towards donating .
 
 Zora buys carbon-offset credits (https://decrypt.co/60271/zora-nft-carbon-offset-ethereum) and can prove their donation via "Impact" tokens. 
 
