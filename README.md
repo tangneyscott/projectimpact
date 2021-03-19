@@ -27,9 +27,10 @@ Zora buys carbon-offset credits (https://decrypt.co/60271/zora-nft-carbon-offset
 
 Creators can define their own rules with protocols such as Zora. Contracts can now include royalties that automatically donate to charities (represented by a smart contract that produces "Impact" tokens). Quality projects are the goal and being driven in the Ethereum ecosystem through projects like https://impactio.global/. 
 
-*Avoid
+*Avoid*
   - Charities that act as a black box (you don't know where your $1 donation ends up)
 
-*Move Towards 
-  - Appealing to Gen Z and Millenial values: 
+*Move Towards* 
+  - Appealing to Gen Z and Millenial values
+  - Incentivizing or nudging the donation to projects 
  
