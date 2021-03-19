@@ -13,8 +13,6 @@ An individual's interests and values are represented by the assets within their 
 The Impact Project enables NFT creators to mint an NFT with an environmental / social impact (e.g. RAC releases art where 10% of sales goes toward planting trees).
 
 
-
-
 ### Use Cases 
 
 @RAC releases a NFT with 50% of the primary and secondary market sales going towards removing plastic from the ocean.
@@ -28,9 +26,13 @@ Zora buys carbon-offset credits (https://decrypt.co/60271/zora-nft-carbon-offset
 Creators can define their own rules with protocols such as Zora. Contracts can now include royalties that automatically donate to charities (represented by a smart contract that produces "Impact" tokens). Quality projects are the goal and being driven in the Ethereum ecosystem through projects like https://impactio.global/. 
 
 *Avoid*
-  - Charities that act as a black box (you don't know where your $1 donation ends up)
+  - Charities that act as a black box (you don't know where your $1 donation gets allocated)
 
 *Move Towards* 
-  - Appealing to Gen Z and Millenial values
-  - Incentivizing or nudging the donation to projects supporting the United Nations SDGs
- 
+  - Appealing to Gen Z and Millennial values
+  - Incentivizing or nudging the donation to projects supporting the United Nations SDG
+  - Increasing the experience of donating to a charity by leveraging token-access communities 
+
+#### Thoughts
+
+Social businesses (not profit-maximizing & and not reliant on donors/grants) are increasingly being spun up. How can we bring the most important global issues to the Ethereum ecosystem (future of the Creator DAO and leveraged in tokenized communities).
