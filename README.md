@@ -10,7 +10,7 @@ The Impact Project creates a positive-sum game (all participants win) for donati
 
 An individual's interests and values are represented by the assets within their crypto wallets. Creating a representation of one's societal / environmental impact within the wallet is the goal. 
 
-****Focus** is to connect individuals / organizations with highly-transparent charities focusing on projects . 
+**Focus** is to connect individuals / organizations with highly-transparent charities focusing on projects . 
 
 The Impact Project enables NFT creators to mint an NFT with an environmental / social impact (e.g. RAC releases art where 10% of sales goes toward planting trees). The f
 
