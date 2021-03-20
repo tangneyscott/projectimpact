@@ -10,9 +10,11 @@ The Impact Project enables access to support the United Nations 17 Sustainable D
 
 ### Long  Description
 
-The Impact Project creates a positive-sum game (all participants win) for donations supporting Sustainable Development Goals (presented by the United Nations). Donations are represented by non-transferable “Impact” tokens, which can be used to gain access to communities, games, giveaways, etc.
+The Impact Project creates a positive-sum game (all participants win) for donations supporting Sustainable Development Goals (presented by the United Nations). Donations are represented by non-transferable “Impact” tokens, which can be used to gain access to communities, games, giveaways, etc. 
 
 An individual's interests and values are represented by the assets within their crypto wallets. Creating a representation of one's societal / environmental impact within the wallet is a benefit of "Impact" tokens.
+
+The Minimum Viable Product (MVP) of Impact Project tackles how creators can leverage their community to support the cause they value. The first iteration will be a trustless process that supports projects with high-leverage (donating a mosquito net).  
 
 *The Impact Project enables NFT creators to mint an NFT with a royalty that supports an environmental / social initiative.*
 
