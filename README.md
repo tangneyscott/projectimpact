@@ -1,6 +1,6 @@
 # The Impact Project 🌍
 
-### Why This is Important
+### Why this is Important
 
 The world is an unfair place, where an individual's life can be largely determined on where and when they are born. We know what problems to tackle but the infrastructure to support them isn't established within the Ethereum ecosystem. Let's build the future of the internet and tackle global problems along the way. 
 
