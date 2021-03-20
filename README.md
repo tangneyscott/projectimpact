@@ -1,4 +1,4 @@
-# The Impact Project 
+# The Impact Project 🌍
 
 ### Why This is Important
 
