@@ -42,4 +42,4 @@ Creators can define their own rules with protocols such as Zora. Contracts can n
 
 Social businesses (not profit-maximizing & and not reliant on donors/grants) are increasingly being spun up. 
 
-*How can we support the most important global issues within the Ethereum ecosystem (future of the Creator DAO and leveraged in tokenized communities)?*
+*How can we support the most important global issues within the Ethereum ecosystem?*
