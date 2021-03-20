@@ -1,8 +1,8 @@
 # The Impact Project 🌍
 
-### Why this is Important
+### Why This Is Important
 
-The world is an unfair place, where an individual's life can be largely determined on where and when they are born. We know what problems to tackle but the infrastructure to support them isn't established within the Ethereum ecosystem. Let's build the future of the internet and tackle global problems along the way. 
+The world is an unfair place, where an individual's life can be largely determined on where and when they are born. Supporting charitable initiatives in Ethereum should be effortless for users yet it's not. Let's build the future of the internet and tackle global problems along the way. 🚀
 
 ### Short Description
 
@@ -14,7 +14,7 @@ The Impact Project creates a positive-sum game (all participants win) for donati
 
 An individual's interests and values are represented by the assets within their crypto wallets. Creating a representation of one's societal / environmental impact within the wallet is a benefit of "Impact" tokens.
 
-The Impact Project enables NFT creators to mint an NFT with an environmental / social impact.
+*The Impact Project enables NFT creators to mint an NFT with an environmental / social impact.*
 
 ### Use Cases 
 
