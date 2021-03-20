@@ -14,15 +14,15 @@ The Impact Project creates a positive-sum game (all participants win) for donati
 
 An individual's interests and values are represented by the assets within their crypto wallets. Creating a representation of one's societal / environmental impact within the wallet is a benefit of "Impact" tokens.
 
-*The Impact Project enables NFT creators to mint an NFT with an environmental / social impact.*
+*The Impact Project enables NFT creators to mint an NFT with a royalty that supports an environmental / social initiative.*
 
 ### Use Cases 
 
-Zora buys carbon-offset credits (https://decrypt.co/60271/zora-nft-carbon-offset-ethereum) and can prove their donation via "Impact" tokens. 
+Proving donations: Zora wants to buy carbon-offset credits. Zora (donator) sends ETH to a smart contract wallet address in return for charity-specific “Impact” tokens. Zora now has a provable, digital representation of their donation.
 
-Collabs... say @trevorjonesart X https://water.org/ (promotes clean drinking water), the NFT is minted and up for sale. The buyers of the NFT receive a non-transferable "Impact" token. Wallets receive a report on the impact they had with the purchase of the artwork. 
+Supporting values: @trevorjonesart wants to leverage his community and support https://water.org/. Trevor Jones can support his charity of choice by incorporating a royalty on the NFT. Now, water.org captures the sales from the primary and secondary market. Buyers of the artwork receive an "Impact" token to represent their support. Wallets holding the "Impact" token can be sent a report to highlight the impact they had with their purchase. 
 
-User A donates 1 ETH to water.org and receives "Impact" tokens. User A can join a community to meet other users who value providing clean drinking water to less-fortunate individuals. 
+Donation to the water.org smart contract wallet address and receives water.org specific "Impact" tokens. Holders of the token can join a community to meet other users who value providing clean drinking water to less-fortunate individuals. Token holders can enter exclusive events, raffles, giveaways, etc. 
 
 ### How It's Made
 
